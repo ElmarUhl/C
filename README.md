@@ -6,8 +6,10 @@ C programming repository
 
 ## Compiling C programs
 
-- ```gcc program.c``` creates ```a.out``` executable
-- ```gcc program.c -o program``` creates ```program``` executable
-- ```gcc program.c -o program -g```creates ```program``` executable with debugging information
+1. ```gcc program.c``` creates ```a.out``` executable
+2. ```gcc program.c -o program``` creates ```program``` executable
+3. ```gcc program.c -o program -g```creates ```program``` executable with debugging information
 
+## Running C++ Programs
 
+Use ```./a.out``` for 1. compiling case our ```./program``` for 2. case.
