@@ -10,6 +10,12 @@ C programming repository
 2. ```gcc program.c -o program``` creates ```program``` executable
 3. ```gcc program.c -o program -g```creates ```program``` executable with debugging information
 
-## Running C++ Programs
+## Running C Programs
 
 Use ```./a.out``` for 1. compiling case our ```./program``` for 2. case.
+
+## Running C Programs on DDD
+
+⚠️ Warning to execute programs on DDD they must be compiled with -g flag!
+
+```DDD program_name```
