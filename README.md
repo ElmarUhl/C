@@ -4,7 +4,6 @@
 
 C programming repository
 
-<<<<<<< HEAD
 ## Compiling C programs
 
 1. ```gcc program.c``` creates ```a.out``` executable
